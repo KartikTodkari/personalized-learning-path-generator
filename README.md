@@ -4,4 +4,5 @@ This is an AI-powered learning path generator which suggests you the best learni
 
 This is my first actual next.js and OpenAI project. I learned a lot while building. I hope you like it. There are a few corners short, but I will try to fix them.
 
-<img width="1180" alt="Screenshot 2023-12-10 at 5 11 00 PM" src="https://github.com/KartikTodkari/personalized-learning-path-generator/ef67-4f9e-ae0b-27c7448c3cfc">
+<img width="1180" alt="Screenshot 2023-12-10 at 5 11 00 PM" src="https://github.com/KartikTodkari/personalized-learning-path-generator/assets/77715510/788de1d7-ef67-4f9e-ae0b-27c7448c3cfc">
+
